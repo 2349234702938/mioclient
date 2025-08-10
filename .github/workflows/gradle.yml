@@ -31,4 +31,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: mio
-          path: ./build/libs/*release.jar0.0
+          path: ./build/libs/*.jar
